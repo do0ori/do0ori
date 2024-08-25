@@ -16,21 +16,21 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # Show the list of OS Worked on In dev metrics
-          # SHOW_OS: # optional, default is True
+          SHOW_OS: "False"
           # Show the list of projects worked on in dev metrics
           SHOW_PROJECTS: "False"
           # Show the Editors used in dev metrics
           SHOW_EDITORS: "False"
           # Show the time zone in the dev metrics
-          # SHOW_TIMEZONE: # optional, default is True
+          SHOW_TIMEZONE: "False"
           # Shows the number of commit graph in the dev metrics
-          SHOW_COMMIT: "False"
+          # SHOW_COMMIT: # optional, default is True
           # Show the Coding language used in dev metrics
           SHOW_LANGUAGE: "False"
           # Show the Total Lines of code written Badge till date
           SHOW_LINES_OF_CODE: "False"
           # Show language or framework used across different repository
-          # SHOW_LANGUAGE_PER_REPO: # optional, default is True
+          SHOW_LANGUAGE_PER_REPO: "False"
           # 
           SHOW_LOC_CHART: "False"
           # show day of week you are most productive
