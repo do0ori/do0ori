@@ -5,6 +5,31 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=do0ori&show_icons=true" width="47%" /> <img align="center" src="https://streak-stats.demolab.com/?user=do0ori" width="50%" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
+
+
+ Last Updated on 25/08/2024 02:20:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Technologies and Tools
