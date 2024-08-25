@@ -47,6 +47,7 @@
 
 ## 📝 Some blog posts
 
+- [Swagger를 github page로 배포하기](https://velog.io/@do0ori/Swagger를-github-page로-배포하기)
 - [NestJS] OAuth 2.0 로그인/회원가입: Google, Kakao, Naver [1](https://velog.io/@do0ori/NestJS-OAuth-2.0-로그인회원가입-Google-Kakao-Naver) [2](https://velog.io/@do0ori/NestJS-OAuth-2.0-로그인회원가입-2-Google-Kakao-Naver) [3]()
 - [브라우저 쿠키 속성 알아보기](https://velog.io/@do0ori/브라우저-쿠키-속성-알아보기)
 - [Index를 추가해 조회 성능 개선하기: MySQL, TypeORM](https://velog.io/@do0ori/Index를-추가해-조회-성능-개선하기-MySQL-TypeORM)
