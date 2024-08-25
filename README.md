@@ -4,6 +4,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=do0ori&show_icons=true" width="47%" /> <img align="center" src="https://streak-stats.demolab.com/?user=do0ori" width="50%" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🛠️ Technologies and Tools
 
 <table>
