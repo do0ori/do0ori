@@ -5,20 +5,18 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=do0ori&show_icons=true" width="47%" /> <img align="center" src="https://streak-stats.demolab.com/?user=do0ori" width="50%" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-🌆 Daytime                846 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
-🌃 Evening                1071 commits        ██████████░░░░░░░░░░░░░░░   40.71 % 
-🌙 Night                  550 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+🌞 Morning                165 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.27 % 
+🌆 Daytime                846 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.14 % 
+🌃 Evening                1071 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.69 % 
+🌙 Night                  550 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.90 % 
 ```
 
 
 
- Last Updated on 25/08/2024 02:26:50 UTC
+ Last Updated on 25/08/2024 02:40:47 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Technologies and Tools
