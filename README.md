@@ -41,6 +41,7 @@
       <img src="https://img.shields.io/badge/Express-000000" /> 
       <img src="https://img.shields.io/badge/NestJS-E0234E" /> 
       <img src="https://img.shields.io/badge/Swagger-85EA2D" /> 
+      <img src="https://img.shields.io/badge/TypeORM-FE0803" /> 
       <img src="https://img.shields.io/badge/MySQL-4479A1" /> 
       <img src="https://img.shields.io/badge/MariaDB-003545" />
       <br>
