@@ -69,6 +69,7 @@
 
 ## 📝 Some blog posts
 
+- [Image Ratio Padder: Velog 썸네일 잘림 간단히 해결하기](https://velog.io/@do0ori/Image-Ratio-Padder-Velog-썸네일-잘림-간단히-해결하기)
 - [[husky] Git Hooks로 코드와 커밋 메시지 linting하기](https://velog.io/@do0ori/husky-Git-Hooks로-코드와-커밋-메시지-linting하기)
 - [Swagger를 github page로 배포하기](https://velog.io/@do0ori/Swagger를-github-page로-배포하기)
 - [NestJS] OAuth 2.0 로그인/회원가입: Google, Kakao, Naver [1](https://velog.io/@do0ori/NestJS-OAuth-2.0-로그인회원가입-Google-Kakao-Naver) [2](https://velog.io/@do0ori/NestJS-OAuth-2.0-로그인회원가입-2-Google-Kakao-Naver) [3]()
