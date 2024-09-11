@@ -2,7 +2,13 @@
 
 # 👋 Hi there, I'm JaeKyung
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=do0ori&show_icons=true) ![streak-stats](https://streak-stats.demolab.com/?user=do0ori)
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=do0ori&show_icons=true"/></td>
+    <td valign="top"><img src="https://streak-stats.demolab.com/?user=do0ori"/></td>
+  </tr>
+</table>
+
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
