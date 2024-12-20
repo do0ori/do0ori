@@ -69,6 +69,7 @@
 
 ## 📝 Some blog posts
 
+- [AWS 기반 CI/CD 배포 과정 분석: Backend](https://velog.io/@do0ori/AWS-기반-CICD-배포-과정-분석-Backend)
 - [Image Ratio Padder: Velog 썸네일 잘림 간단히 해결하기](https://velog.io/@do0ori/Image-Ratio-Padder-Velog-썸네일-잘림-간단히-해결하기)
 - [[husky] Git Hooks로 코드와 커밋 메시지 linting하기](https://velog.io/@do0ori/husky-Git-Hooks로-코드와-커밋-메시지-linting하기)
 - [Swagger를 github page로 배포하기](https://velog.io/@do0ori/Swagger를-github-page로-배포하기)
