@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=do0ori&show_icons=true"/></td>
-    <td valign="top"><img src="https://streak-stats.demolab.com/?user=do0ori"/></td>
+    <td valign="top"><img src="https://github-readme-streak-stats-chi-ten.vercel.app/?user=do0ori"/></td>
   </tr>
 </table>
 
