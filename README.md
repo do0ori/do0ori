@@ -69,6 +69,7 @@
 
 ## 📝 Some blog posts
 
+- [Visual Timer: 쉽고 간단하게 시각적으로 시간 관리하기](https://velog.io/@do0ori/Visual-Timer-쉽고-간단하게-시각적으로-시간-관리하기)
 - [AWS 기반 CI/CD 배포 과정 분석: Backend](https://velog.io/@do0ori/AWS-기반-CICD-배포-과정-분석-Backend)
 - [Image Ratio Padder: Velog 썸네일 잘림 간단히 해결하기](https://velog.io/@do0ori/Image-Ratio-Padder-Velog-썸네일-잘림-간단히-해결하기)
 - [[husky] Git Hooks로 코드와 커밋 메시지 linting하기](https://velog.io/@do0ori/husky-Git-Hooks로-코드와-커밋-메시지-linting하기)
