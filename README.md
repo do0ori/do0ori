@@ -39,6 +39,10 @@
       <img src="https://img.shields.io/badge/C/C++-A8B9CC" />
       <br>
       <img src="https://img.shields.io/badge/Create%20React%20App-09D3AC" /> 
+      <img src="https://img.shields.io/badge/React%20Native-00D8FF" /> 
+      <img src="https://img.shields.io/badge/Pytorch-EE4C2C" /> 
+      <br>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-78BAF2" /> 
       <img src="https://img.shields.io/badge/Styled%20Components-DB7093" /> 
       <img src="https://img.shields.io/badge/React%20Query-FF4154" /> 
       <img src="https://img.shields.io/badge/Zustand-494237" />
@@ -46,12 +50,15 @@
       <img src="https://img.shields.io/badge/Node.js-5FA04E" /> 
       <img src="https://img.shields.io/badge/Express-000000" /> 
       <img src="https://img.shields.io/badge/NestJS-E0234E" /> 
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33f" /> 
+      <img src="https://img.shields.io/badge/FastAPI-009688" /> 
+      <br>
       <img src="https://img.shields.io/badge/Swagger-85EA2D" /> 
       <img src="https://img.shields.io/badge/TypeORM-FE0803" /> 
       <img src="https://img.shields.io/badge/MySQL-4479A1" /> 
       <img src="https://img.shields.io/badge/MariaDB-003545" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791" />
       <br>
-      <img src="https://img.shields.io/badge/Vercel-000000" /> 
       <img src="https://img.shields.io/badge/AWS-FF9900" /> 
       <img src="https://img.shields.io/badge/Docker-2496ED" /> 
       <img src="https://img.shields.io/badge/Git%20Actions-2088FF" />
