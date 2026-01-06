@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=do0ori&show_icons=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats-six-smoky-ufayakleav.vercel.app/api?username=do0ori&show_icons=true"/></td>
     <td valign="top"><img src="https://github-readme-streak-stats-chi-ten.vercel.app/?user=do0ori"/></td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=do0ori&size_weight=0.5&count_weight=0.5&layout=compact&hide=jupyter%20notebook" />
+      <img src="https://github-readme-stats-six-smoky-ufayakleav.vercel.app/api/top-langs/?username=do0ori&size_weight=0.5&count_weight=0.5&layout=compact&hide=jupyter%20notebook" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E" /> 
