@@ -33,6 +33,7 @@
       <img src="https://github-readme-stats-six-smoky-ufayakleav.vercel.app/api/top-langs/?username=do0ori&size_weight=0.5&count_weight=0.5&layout=compact&hide=jupyter%20notebook" />
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/Java-F89820" /> 
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E" /> 
       <img src="https://img.shields.io/badge/TypeScript-3178C6" /> 
       <img src="https://img.shields.io/badge/Python-3776AB" /> 
@@ -52,6 +53,7 @@
       <img src="https://img.shields.io/badge/NestJS-E0234E" /> 
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33f" /> 
       <img src="https://img.shields.io/badge/FastAPI-009688" /> 
+      <img src="https://img.shields.io/badge/Flask-000000" /> 
       <br>
       <img src="https://img.shields.io/badge/Swagger-85EA2D" /> 
       <img src="https://img.shields.io/badge/TypeORM-FE0803" /> 
