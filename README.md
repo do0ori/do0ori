@@ -76,14 +76,15 @@
   </tr>
 </table>
 
-## 📝 Some blog posts
+## 📝 My blog posts
 
-- [Visual Timer: 쉽고 간단하게 시각적으로 시간 관리하기](https://velog.io/@do0ori/Visual-Timer-쉽고-간단하게-시각적으로-시간-관리하기)
-- [AWS 기반 CI/CD 배포 과정 분석: Backend](https://velog.io/@do0ori/AWS-기반-CICD-배포-과정-분석-Backend)
-- [Image Ratio Padder: Velog 썸네일 잘림 간단히 해결하기](https://velog.io/@do0ori/Image-Ratio-Padder-Velog-썸네일-잘림-간단히-해결하기)
-- [[husky] Git Hooks로 코드와 커밋 메시지 linting하기](https://velog.io/@do0ori/husky-Git-Hooks로-코드와-커밋-메시지-linting하기)
-- [Swagger를 github page로 배포하기](https://velog.io/@do0ori/Swagger를-github-page로-배포하기)
-- [NestJS] OAuth 2.0 로그인/회원가입: Google, Kakao, Naver [1](https://velog.io/@do0ori/NestJS-OAuth-2.0-로그인회원가입-Google-Kakao-Naver) [2](https://velog.io/@do0ori/NestJS-OAuth-2.0-로그인회원가입-2-Google-Kakao-Naver) [3]()
-- [브라우저 쿠키 속성 알아보기](https://velog.io/@do0ori/브라우저-쿠키-속성-알아보기)
-- [Index를 추가해 조회 성능 개선하기: MySQL, TypeORM](https://velog.io/@do0ori/Index를-추가해-조회-성능-개선하기-MySQL-TypeORM)
-- [TypeORM Query Logging 하기](https://velog.io/@do0ori/TypeORM-Query-Logging-하기)
+- 🤖 [[라즈베리파이 x OpenClaw] 24시간 AI 비서 만들기](https://velog.io/@do0ori/series/라즈베리파이-x-OpenClaw-24시간-AI-비서-만들기)
+- ⏲️ [Visual Timer: 쉽고 간단하게 시각적으로 시간 관리하기](https://velog.io/@do0ori/Visual-Timer-쉽고-간단하게-시각적으로-시간-관리하기)
+- 🚀 [AWS 기반 CI/CD 배포 과정 분석: Backend](https://velog.io/@do0ori/AWS-기반-CICD-배포-과정-분석-Backend)
+- 🖼️ [Image Ratio Padder: Velog 썸네일 잘림 간단히 해결하기](https://velog.io/@do0ori/Image-Ratio-Padder-Velog-썸네일-잘림-간단히-해결하기)
+- 🐶 [[husky] Git Hooks로 코드와 커밋 메시지 linting하기](https://velog.io/@do0ori/husky-Git-Hooks로-코드와-커밋-메시지-linting하기)
+- 🚀 [Swagger를 github page로 배포하기](https://velog.io/@do0ori/Swagger를-github-page로-배포하기)
+- 🔐 [[NestJS] OAuth 2.0 소셜 로그인 (Google, Kakao, Naver)](https://velog.io/@do0ori/series/NestJS-OAuth-2.0-소셜-로그인-Google-Kakao-Naver)
+- 🍪 [브라우저 쿠키 속성 알아보기](https://velog.io/@do0ori/브라우저-쿠키-속성-알아보기)
+- 🔍 [Index를 추가해 조회 성능 개선하기: MySQL, TypeORM](https://velog.io/@do0ori/Index를-추가해-조회-성능-개선하기-MySQL-TypeORM)
+- 📜 [TypeORM Query Logging 하기](https://velog.io/@do0ori/TypeORM-Query-Logging-하기)
