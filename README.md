@@ -11,8 +11,18 @@
 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 29/05/2026 02:02:13 UTC
+```text
+🌞 Morning                655 commits         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.19 % 
+🌆 Daytime                8293 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.39 % 
+🌃 Evening                8612 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.95 % 
+🌙 Night                  2970 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.47 % 
+```
+
+
+
+ Last Updated on 30/05/2026 01:55:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Technologies and Tools
