@@ -85,6 +85,7 @@ No AI Coding Activity Tracked This Week
 
 ## 📝 My blog posts
 
+- 🗒️ [Full Width Toggle: Obsidian 노트 너비를 클릭 한 번으로 바꾸기](https://velog.io/@do0ori/Full-Width-Toggle-Obsidian-노트-너비를-클릭-한-번으로-바꾸기)
 - 🤖 [[라즈베리파이 x OpenClaw] 24시간 AI 비서 만들기](https://velog.io/@do0ori/series/라즈베리파이-x-OpenClaw-24시간-AI-비서-만들기)
 - ⏲️ [Visual Timer: 쉽고 간단하게 시각적으로 시간 관리하기](https://velog.io/@do0ori/Visual-Timer-쉽고-간단하게-시각적으로-시간-관리하기)
 - 🚀 [AWS 기반 CI/CD 배포 과정 분석: Backend](https://velog.io/@do0ori/AWS-기반-CICD-배포-과정-분석-Backend)
