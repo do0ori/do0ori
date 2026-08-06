@@ -85,6 +85,7 @@ No AI Coding Activity Tracked This Week
 
 ## 📝 My blog posts
 
+- 📊 [Antigravity Group Quota Bar: Antigravity IDE 사용량 한도, 상태 표시줄에서 바로 확인하기](https://velog.io/@do0ori/Antigravity-Group-Quota-Bar-Antigravity-IDE-사용량-한도-상태-표시줄에서-바로-확인하기)
 - 🗒️ [Full Width Toggle: Obsidian 노트 너비를 클릭 한 번으로 바꾸기](https://velog.io/@do0ori/Full-Width-Toggle-Obsidian-노트-너비를-클릭-한-번으로-바꾸기)
 - 🤖 [[라즈베리파이 x OpenClaw] 24시간 AI 비서 만들기](https://velog.io/@do0ori/series/라즈베리파이-x-OpenClaw-24시간-AI-비서-만들기)
 - ⏲️ [Visual Timer: 쉽고 간단하게 시각적으로 시간 관리하기](https://velog.io/@do0ori/Visual-Timer-쉽고-간단하게-시각적으로-시간-관리하기)
