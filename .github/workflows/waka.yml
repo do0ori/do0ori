@@ -24,7 +24,7 @@ jobs:
                   # Show the time zone in the dev metrics
                   SHOW_TIMEZONE: "False"
                   # Shows the number of commit graph in the dev metrics
-                  # SHOW_COMMIT: # optional, default is True
+                  SHOW_COMMIT: "True"
                   # Show the Coding language used in dev metrics
                   SHOW_LANGUAGE: "False"
                   # Show the Total Lines of code written Badge till date
