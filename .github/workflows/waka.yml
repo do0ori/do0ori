@@ -45,8 +45,5 @@ jobs:
                   SHOW_TOTAL_CODE_TIME: "False"
                   # Disable AI coding breakdown
                   SHOW_AI_CODING: "False"
-                  # Use SVG style progress bar with rounded corners
-                  BAR_STYLE: "svg"
-                  BAR_RADIUS: "4"
                   #
                   SYMBOL_VERSION: 2
