@@ -13,11 +13,16 @@
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#c9d1d9">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8b949e">769 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="6" width="28" height="8" rx="4" fill="#90CAF9"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8b949e">7.75%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#c9d1d9">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8b949e">3648 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="30" width="132" height="8" rx="4" fill="#90CAF9"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8b949e">36.76%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#c9d1d9">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8b949e">3752 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="54" width="136" height="8" rx="4" fill="#90CAF9"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8b949e">37.81%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#c9d1d9">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8b949e">1755 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#172F45"/><rect x="280" y="78" width="64" height="8" rx="4" fill="#90CAF9"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8b949e">17.68%</text></svg>
+```text
+🌞 Morning                768 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.87 % 
+🌆 Daytime                3571 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.59 % 
+🌃 Evening                3694 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.85 % 
+🌙 Night                  1726 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.69 % 
+```
 
 
 
- Last Updated on 18/08/2026 08:37:11 UTC
+ Last Updated on 18/08/2026 08:50:15 UTC
 <!--END_SECTION:waka-->
 
 ## 🛠️ Technologies and Tools
