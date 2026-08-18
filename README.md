@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats-six-smoky-ufayakleav.vercel.app/api?username=do0ori&show_icons=true"/></td>
+    <td valign="top"><img src="https://github-stats-extended-frontend-red.vercel.app/api?username=do0ori&show_icons=true&count_private=true&custom_title=My%20GitHub%20Stats"/></td>
     <td valign="top"><img src="https://github-readme-streak-stats-chi-ten.vercel.app/?user=do0ori"/></td>
   </tr>
 </table>
@@ -36,7 +36,7 @@ No AI Coding Activity Tracked This Week
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-six-smoky-ufayakleav.vercel.app/api/top-langs/?username=do0ori&size_weight=0.5&count_weight=0.5&layout=compact&hide=jupyter%20notebook" />
+      <img src="https://github-stats-extended-frontend-red.vercel.app/api/top-langs/?username=do0ori&size_weight=0.5&count_weight=0.5&layout=compact&hide=jupyter%20notebook&count_private=true" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white" />
